@@ -15,3 +15,16 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 ### Typescript
 
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+
+## Links
+https://www.sciencedirect.com/science/article/pii/S0891524505000891
+https://journals.sagepub.com/doi/abs/10.1177/0886260504267755?journalCode=jiva
+https://www.ojp.gov/ncjrs/virtual-library/abstracts/domestic-violence-overview-literature
+https://www.jstor.org/stable/3600300
+
+https://www.youtube.com/watch?v=JWze4d5s2sQ
+https://www.youtube.com/watch?v=lXrsAMdbk4I
+https://www.youtube.com/watch?v=-I40drijjEA
+https://www.youtube.com/watch?v=PoInQ1yoe-g
+
+
